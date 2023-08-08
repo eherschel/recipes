@@ -5,6 +5,7 @@ Ingredients:
 -salt
 -lime
 -tomatoes
+-pepper
 
 Instructions:
 1. mash avocados
